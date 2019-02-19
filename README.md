@@ -1,7 +1,6 @@
-# project-3-starter
-Project 3: hashing
-Group members:
+# Cuckoo Hashing
+CPSC 335 Algorithms Engineering
 
-Julian Coronado juliancoronado@csu.fullerton.edu
-
-Theresa Tanubrata theresatanubrata123@csu.fullerton.edu
+Project 3 by
+Julian Coronado
+(juliancoronado@csu.fullerton.edu)
